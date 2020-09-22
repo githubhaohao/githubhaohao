@@ -2,12 +2,12 @@
 
 Android 高级工程师，熟悉 OpenGL 、FFmpeg 、Camera、 NDK 相关开发知识，微信公众号【字节流动】作者，欢迎关注学习交流。
 
-|  公众号   | CSDN |简书|
-|  ----  | ----  |----|
-| [字节流动](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwNTIwMzAzNg==&action=getalbum&album_id=1340922292116996097&scene=173#wechat_redirect) |[点我直达](https://blog.csdn.net/Kennethdroid)| [我的简书](https://www.jianshu.com/p/0fb417ee31f3)|
+ | CSDN |简书|
+ | ----  |----|
+|[CSDN](https://blog.csdn.net/Kennethdroid)| [我的简书](https://www.jianshu.com/p/0fb417ee31f3)|
 
 ### Github State
-![字节流动 github state](https://github-readme-stats.vercel.app/api?username=githubhaohao&show_icons=true&theme=radical)
+![字节流动 github stats](https://github-readme-stats.vercel.app/api?username=githubhaohao&show_icons=true&theme=radical)
 <!--
 **githubhaohao/githubhaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
