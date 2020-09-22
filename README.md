@@ -10,7 +10,7 @@ Android 高级工程师，熟悉 OpenGL 、FFmpeg 、Camera、 NDK 相关开发�
 ![字节流动 github stats](https://github-readme-stats.vercel.app/api?username=githubhaohao&show_icons=true&theme=radical)
 
 ### 联系我
-有疑问或技术交流可以添加我的微信：Byte-Flow , 拉你入技术交流群。
+**有疑问或技术交流可以添加我的微信：Byte-Flow , 拉你入技术交流群。**
 
 <!--
 **githubhaohao/githubhaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
