@@ -4,7 +4,7 @@ Android 高级工程师，熟悉 OpenGL ES、 FFmpeg、 Camera、 NDK 相关开�
 
  | CSDN |简书|
  | ----  |----|
-|[CSDN](https://blog.csdn.net/Kennethdroid)| [我的简书](https://www.jianshu.com/p/0fb417ee31f3)|
+|[CSDN](https://blog.csdn.net/Kennethdroid)| [我的简书](https://www.jianshu.com/c/facf3a807e5c)|
 
 ### Github State
 ![字节流动 github stats](https://github-readme-stats.vercel.app/api?username=githubhaohao&show_icons=true&theme=radical)
