@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm 字节流动.
 
-Android 高级工程师，熟悉 OpenGL ES、 FFmpeg、 Camera、 NDK 相关开发知识，微信公众号【**字节流动**】作者，欢迎关注学习交流，**领取视频教程**。
+Android 开发者，熟悉 OpenGL ES、 FFmpeg、 Camera、 NDK 相关开发知识，微信公众号【**字节流动**】作者，欢迎关注学习交流，**领取视频教程**。
 
  | CSDN |简书|掘金|知乎|
  | ----  |----|----|----|
