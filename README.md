@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubhaohao&layout=compact&hide_border=true)
+
+
+![AsynctaskCoffee](https://komarev.com/ghpvc/?username=githubhaohao)
 -->
